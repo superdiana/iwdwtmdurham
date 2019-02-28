@@ -29,7 +29,7 @@
             <v-flex xs12 md9 sm10 lg10 class="pa-0 elevation-2">
                 <v-tabs
                     v-model="active"
-                    color="#2aa1af"
+                    color="#4fc3f7"
                     dark
                     slider-color="yellow">
 
