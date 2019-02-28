@@ -1,42 +1,90 @@
 [
     {
         "name":"Vrijraj Singh",
-        "designation":"Community Organizer",
+        "designation":"Organizer",
         "twitter":"https://twitter.com/vrijrajsingh",
         "linkedin":"https://www.linkedin.com/in/vrijraj",
         "github":"https://github.com/Vrijraj",
-        "profileImage":""
+        "profileImage":"vrij.png"
     },
     {
         "name":"Suraj Kumar",
-        "designation":"Community Organizer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":""
+        "designation":"Organizer",
+        "twitter":"https://twitter.com/surajsugga",
+        "linkedin":"https://www.linkedin.com/in/surajsuggasingh/",
+        "github":"",
+        "profileImage":"suraj.jpg"
     },
     {
         "name":"Varsha Jaiswal",
         "designation":"Co-Oranizer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":""
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"varsha.jpg"
     },
     {
         "name":"Sonakshi Shukla",
         "designation":"WTM Lead",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":""
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"sonakshi.jpg"
     },
     {
         "name":"Ishita Agnihotri",
         "designation":"WTM Lead",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"ishita.jpg"
+    },
+    {
+        "name":"Kishan Patel",
+        "designation":"GDG Jalandhar",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":""
+    },
+    {
+        "name":"Dharmik Popat",
+        "designation":"GDG Jalandhar",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":""
+    },
+    {
+        "name":"Rohan Singh",
+        "designation":"GDG Jalandhar",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":""
+    },
+    {
+        "name":"Shubhangi Gupta",
+        "designation":"GDG Jalandhar",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":""
+    },
+    {
+        "name":"Ashan Khan",
+        "designation":"GDG Jalandhar",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":""
+    },
+    {
+        "name":"Simran Gujrati",
+        "designation":"GDG Jalandhar",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
         "profileImage":""
     }
    
