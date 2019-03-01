@@ -11,18 +11,18 @@
                 <p class="google-font mt-2" style="font-size:110%">General Creator</p>
                 
 
-                <v-layout >
-                    <v-flex xs12 sm6 class="elevation-0">
-                        <v-card class="elevation-0 pa-0">
+                <v-layout class="transparent">
+                    <v-flex xs12 sm6 class="elevation-0 transparent">
+                        <v-card class="elevation-0 pa-0 transparent">
                             <v-container grid-list-sm fluid class="pa-0">
                                 <v-layout row wrap class="ma-1">
                                     <v-flex
-                                        v-for="itemp in partnerData" :key="itemp.name"
+                                        v-for="(itemp,i) in partnerData" :key="i"
                                         xs4
                                         md3
                                         d-flex
-                                        class="pa-2 mr-2"
-                                        style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
+                                        class="pa-2 mr-2 white elevation-1"
+                                        style="border-radius:8px;border-color:#e0e0e0;border-width: 2px; border-style: solid;"
                                     >
                                     <v-card flat tile class="d-flex" >
                                         <a v-bind:href="itemp.link" target="_blank">
@@ -57,23 +57,23 @@
             <v-flex xs12 md12 class="mt-2">
                 <p class="google-font mt-2" style="font-size:110%">Template Creator</p>
 
-                <v-layout >
-                    <v-flex xs12 sm10 class="elevation-0">
-                        <v-card class="elevation-0 pa-0">
+                <v-layout class="transparent" >
+                    <v-flex xs12 sm10 class="elevation-0 transparent">
+                        <v-card class="elevation-0 pa-0 transparent">
                             <v-container grid-list-sm fluid class="pa-0">
                                 <v-layout row wrap class="ma-1">
                                     <v-flex
                                         xs4
                                         md2
                                         d-flex
-                                        class="pa-2 mr-2"
+                                        class="pa-2 mr-2 white elevation-1"
                                         style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;"
                                     >
                                     <v-card flat tile class="d-flex" >
                                         <a href="https://gdgjalandhar.com" target="_blank">
                                         <v-img
-                                            :src="require('../assets/imgs/partners/gdgjalandhar.png')"
-                                            :lazy-src="require('../assets/imgs/partners/gdgjalandhar.png')"
+                                            :src="require('../assets/img/partners/gdgjalandhar.png')"
+                                            :lazy-src="require('../assets/img/partners/gdgjalandhar.png')"
                                             aspect-ratio="2.9"
                                             class="white"
                                         >
@@ -114,7 +114,7 @@ export default {
     },
     methods:{
         getImgUrl(pic) {
-            return require('../assets/imgs/partners/'+pic)
+            return require('@/assets/img/partners/'+pic)
         },
     }
 }

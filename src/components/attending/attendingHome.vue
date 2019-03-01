@@ -1,10 +1,10 @@
 <template>
-    <v-container fluid class="mt-2 grey lighten-5" style="border-radius:8px;border-color:#e0e0e0;border-width: 1px; border-style: solid;">
+    <v-container fluid class="mt-5">
         <v-layout wrap align-center justify-center row fill-height>
             <v-flex xs12 sm6 md3 class="mb-3">
                 <v-img
-                    :src="require('@/assets/imgs/svg/attendingfront.svg')"
-                    :lazy-src="require('@/assets/imgs/svg/attendingfront.svg')"
+                    :src="require('@/assets/img/svg/attendingfront.svg')"
+                    :lazy-src="require('@/assets/img/svg/attendingfront.svg')"
                     width="80%">
                     <v-layout
                         slot="placeholder"
@@ -19,22 +19,22 @@
             </v-flex>
 
             <v-flex xs12 sm6 md9>
-                <span class="pa-2 google-font" style="border-radius:8px;background-color:#E3F2FD;color:#0D47A1;font-size:150%">Attending</span>
+                <span class="pa-2 google-font mt-2" style="border-radius:8px;background-color:#E3F2FD;color:#0D47A1;font-size:150%">Attending</span>
                 <p class="google-font mt-2 mb-0" style="font-size:150%">Join us at the {{data.eventVenue}}, on {{data.eventDate}}.</p>   
                 
                 <p class="google-font mt-2" style="font-size:120%">On {{data.eventDate}} we’ll be taking technical sessions, hands-on demos, workshops, and some fun activities.</p>
 
                 <v-btn outline :href="data.registrationLink" target="_blank" class="ma-0 google-font" color="blue" style="text-transform: capitalize;border-radius:8px">Request for an Invitation</v-btn>
 
-                <v-btn :href="data.eventMeetupLink" target="_blank" color="red" style="text-transform: capitalize;border-radius:8px" flat  class="ml-2 google-font" dark>Meetup</v-btn>
-            </v-flex>               
+                <v-btn :href="data.eventMeetupLink" target="_blank" color="red" style="text-transform: capitalize;border-radius:8px" outline  class="ml-2 google-font" dark>Meetup</v-btn>
+            </v-flex>       
+       
         </v-layout>
 
     </v-container>
 </template>
 
 <script>
-// import teamdata from '@/assets/data/speakers.json'
 import homeData from '@/assets/data/home.json'
 
 export default {
