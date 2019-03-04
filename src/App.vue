@@ -100,7 +100,7 @@ export default {
             { title: 'Attending', icon: 'rounded_corner', route:"/attending" },
             { title: 'Agenda', icon: 'toc', route:"/agenda" },
             { title: 'Speakers', icon: 'group', route:"/speakers" },
-            { title: 'Teams', icon: 'person', route:"/teams" }
+            { title: 'Team', icon: 'person', route:"/team" }
         ],
     }),
     methods:{
