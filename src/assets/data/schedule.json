@@ -13,21 +13,27 @@
     },
     {
         "startTime":"10:30 AM",
-        "topic":"Transition from campus to corporate",
+        "topic":"Google Developers Community Program",
         "tag":"",
-        "des":"Talk on 'What is the problems a fresh graduate face while moving to a corporate field from the college capmus?'"
+        "des":"Intro to various programs offered and initiated by Google Developers to help the community out there"
     },
     {
         "startTime":"11:00 AM",
+        "topic":"Firebase Web App Deployment",
+        "tag":"Web",
+        "des":"Hands-on session on development and deployment of a Web App using Firebase"
+    },
+    {
+        "startTime":"11:30 AM",
         "topic":"Fun Activities",
         "tag":"Fun",
         "des":"Let's enjoy a bit before we start writing some code."
     },
     {
-        "startTime":"11:30 AM",
-        "topic":"Firebase Web App Deployment",
-        "tag":"Web",
-        "des":"Hands-on session on development and deployment of a Web App using Firebase"
+        "startTime":"12:00 PM",
+        "topic":"Google Cloud Platform",
+        "tag":"Cloud",
+        "des":"Let's enjoy a bit before we start writing some code."
     },
     {
         "startTime":"12:30 PM",
@@ -42,7 +48,7 @@
         "des":"Increase the energy level again to enjoy the upcoming awesome workshops"
     },
     {
-        "startTime":"02:30 PM",
+        "startTime":"02:00 PM",
         "topic":"I’m Remarkable",
         "tag":"Self-Branding",
         "des":"Self-Promotion is not bragging, it's telling yourself and others that what you have achieved."
@@ -55,9 +61,9 @@
     },
     {
         "startTime":"04:00 PM",
-        "topic":"Fireside Lightning Talks",
+        "topic":"Fireside Panel Discussion",
         "tag":"",
-        "des":"A quick Fireside Chat where we can ask any questions from the speakers"
+        "des":"A quick Fireside Chat where the speakers will answer few questions which will help to build the career and grow in the field"
     },
     {
         "startTime":"04:30 PM",
