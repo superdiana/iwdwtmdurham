@@ -8,6 +8,14 @@
         "profileImage":"sid.jpg"
     },
     {
+        "name":"Vrijraj Singh",
+        "company": "Qart Fashion",
+        "twitter":"https://twitter.com/vrijrajsingh",
+        "linkedin":"https://www.linkedin.com/in/vrijraj",
+        "github":"https://github.com/Vrijraj",
+        "profileImage":"vrij.png"
+    },
+    {
         "name":"Suraj Kumar",
         "company": "NickelFox Studio",
         "twitter":"https://twitter.com/surajsugga",
@@ -18,48 +26,40 @@
     {
         "name":"Kamal Vaid",
         "company": "Infosys",
-        "twitter":"",
-        "linkedin":"",
+        "twitter":"https://twitter.com/cammykamal",
+        "linkedin":"https://www.linkedin.com/in/kamal-vaid/",
         "github":"",
         "profileImage":"kamal.jpg"
     },
     {
         "name":"Varsha Jaiswal",
-        "company": "IB Hubs",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
+        "company": "iB Hubs",
+        "twitter":"https://twitter.com/varsha2716",
+        "linkedin":"https://www.linkedin.com/in/varsha2716/",
+        "github":"https://github.com/Varsha-Jaiswal",
         "profileImage":"varsha.jpg"
     },
     {
         "name":"Sonakshi Shukla",
         "company": "WTM Lead",
-        "twitter":"",
-        "linkedin":"",
+        "twitter":"https://twitter.com/Sonakshishukla1",
+        "linkedin":"https://www.linkedin.com/in/sonakshi15/",
         "github":"",
         "profileImage":"sonakshi.jpg"
     },
     {
         "name":"Ishita Agnihotri",
         "company": "WTM Lead",
-        "twitter":"",
-        "linkedin":"",
+        "twitter":"https://twitter.com/ishitaagnihotr1",
+        "linkedin":"https://www.linkedin.com/in/ishita-agnihotri/",
         "github":"",
         "profileImage":"ishita.jpg"
     },
     {
-        "name":"Vrijraj Singh",
-        "company": "Qart Fashion",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"vrij.png"
-    },
-    {
         "name":"Shubhangi Gupta",
         "company": "WTM Jalandhar",
-        "twitter":"",
-        "linkedin":"",
+        "twitter":"https://twitter.com/Shubhangigr8",
+        "linkedin":"https://www.linkedin.com/in/shubhangigr8/",
         "github":"",
         "profileImage":""
     },
@@ -67,7 +67,7 @@
         "name":"Abhishek Suman",
         "company": "Infosys",
         "twitter":"",
-        "linkedin":"",
+        "linkedin":"https://www.linkedin.com/in/abhisheksuman000/",
         "github":"",
         "profileImage":""
     }
