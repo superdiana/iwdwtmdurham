@@ -1,51 +1,69 @@
 [
     {
-        "startTime":"09.00 AM",
+        "startTime":"09:00 AM",
         "topic":"Registration",
         "tag":"",
         "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
     },
     {
-        "startTime":"10.00 AM",
+        "startTime":"10:00 AM",
         "topic":"Welcome Keynote",
         "tag":"",
         "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
     },
     {
-        "startTime":"10.15 AM",
-        "topic":"Session 1",
-        "tag":"Mobile",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"10:30 AM",
+        "topic":"Women Transition from campus to corporate",
+        "tag":"",
+        "des":"+"
     },
     {
-        "startTime":"11.00 AM",
-        "topic":"Session 2",
+        "startTime":"11:00 AM",
+        "topic":"Fun Activities",
+        "tag":"Fun",
+        "des":"Let's enjoy a bit before we start writing some code."
+    },
+    {
+        "startTime":"11:30 AM",
+        "topic":"Firebase Web App Deployment",
         "tag":"Web",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "des":""
     },
     {
-        "startTime":"12.00 PM",
-        "topic":"Session 3",
-        "tag":"Web",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"12:30 PM",
+        "topic":"Activities [Success Stories]",
+        "tag":"Fun",
+        "des":""
     },
     {
-        "startTime":"01.00 PM",
-        "topic":"Session 4",
-        "tag":"Cloud",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"01:00 PM",
+        "topic":"Lunch & Networking",
+        "tag":"Food",
+        "des":""
     },
     {
-        "startTime":"03.00 PM",
-        "topic":"Session 5",
-        "tag":"Cloud",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"02:30 PM",
+        "topic":"I’m Remarkable",
+        "tag":"Self Branding",
+        "des":""
     },
     {
-        "startTime":"04.00 PM",
-        "topic":"Session 6",
-        "tag":"Web",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "startTime":"03:30 PM",
+        "topic":"Why I can’t?",
+        "tag":"Self Branding",
+        "des":""
+    },
+    {
+        "startTime":"04:00 PM",
+        "topic":"Fireside Lightning Talks",
+        "tag":"",
+        "des":""
+    },
+    {
+        "startTime":"04:30 PM",
+        "topic":"Closing Note",
+        "tag":"",
+        "des":""
     }
 
 ]
