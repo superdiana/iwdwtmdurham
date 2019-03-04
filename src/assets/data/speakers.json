@@ -1,13 +1,5 @@
 [
     {
-        "name":"Siddhant Agarwal",
-        "company": "Google",
-        "twitter":"https://twitter.com/sidagarwal04",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"sid.jpg"
-    },
-    {
         "name":"Sonakshi Shukla",
         "company": "WTM Lead",
         "twitter":"https://twitter.com/Sonakshishukla1",
@@ -30,6 +22,14 @@
         "linkedin":"https://www.linkedin.com/in/shubhangigr8/",
         "github":"http://github.com/shubhangigr8",
         "profileImage":""
+    },
+    {
+        "name":"Siddhant Agarwal",
+        "company": "Google",
+        "twitter":"https://twitter.com/sidagarwal04",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"sid.jpg"
     },
     {
         "name":"Vrijraj Singh",
