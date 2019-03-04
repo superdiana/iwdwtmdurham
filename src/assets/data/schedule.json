@@ -3,25 +3,25 @@
         "startTime":"09:00 AM",
         "topic":"Registration",
         "tag":"",
-        "des":"Register yourself and confirm your participation on the Help-desks"
+        "des":"Register yourself and confirm your participation on the Help-desks."
     },
     {
         "startTime":"10:00 AM",
         "topic":"Welcome Keynote",
         "tag":"",
-        "des":"Brief intro about the organization, event, agenda,etc"
+        "des":"Brief intro about the organization, event, agenda, etc."
     },
     {
         "startTime":"10:30 AM",
         "topic":"Google Developers Community Program",
         "tag":"",
-        "des":"Intro to various programs offered and initiated by Google Developers to help the community out there"
+        "des":"Intro to various programs offered and initiated by Google Developers to help the community out there."
     },
     {
         "startTime":"11:00 AM",
         "topic":"Firebase Web App Deployment",
         "tag":"Web",
-        "des":"Hands-on session on development and deployment of a Web App using Firebase"
+        "des":"Hands-on session on development and deployment of a Web App using Firebase."
     },
     {
         "startTime":"11:30 AM",
@@ -39,13 +39,13 @@
         "startTime":"12:30 PM",
         "topic":"Activities [Success Stories]",
         "tag":"Fun",
-        "des":"Platform where anyone can share his/her success story with the attendees"
+        "des":"Platform where anyone can share his/her success story with the attendees."
     },
     {
         "startTime":"01:00 PM",
         "topic":"Lunch & Networking",
         "tag":"",
-        "des":"Increase the energy level again to enjoy the upcoming awesome workshops"
+        "des":"Increase the energy level again to enjoy the upcoming awesome workshops."
     },
     {
         "startTime":"02:00 PM",
@@ -63,7 +63,7 @@
         "startTime":"04:00 PM",
         "topic":"Fireside Panel Discussion",
         "tag":"",
-        "des":"A quick Fireside Chat where the speakers will answer few questions which will help to build the career and grow in the field"
+        "des":"A quick Fireside Chat where the speakers will answer few questions which will help to build the career and grow in the field."
     },
     {
         "startTime":"04:30 PM",
