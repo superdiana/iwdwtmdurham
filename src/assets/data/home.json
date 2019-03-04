@@ -10,7 +10,7 @@
     "chapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
     "eventMeetupLink" : "https://www.meetup.com/GDG-Jalandhar/events/253165595/",
     "eventDate" : "31st March",
-    "eventTime" : "09 am to 5.30 pm",
+    "eventTime" : "09:00 AM to 05:30 PM",
     "eventVenue" : "Venue Name, Jalandhar",
     "email":"gdgjalandhar@gmail.com",
     "followLinks":{
@@ -29,28 +29,37 @@
         },
         {
             "name" : "#WTM"
+        },
+        {
+            "name" : "#WTM19"
+        },
+        {
+            "name" : "IWD19"
+        },
+        {
+            "name" : "IWDJalandhar"
         }
     ],
     "stats":[
         {
             "name":"Sessions",
-            "des":"3 parallel tracks, dedicated to Android, Web and Cloud technologies",
-            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+            "des":"Sessions to introduce some tech and non-tech talks on topics like Google Cloud Platform and Why I Can't?",
+            "longDes":"Technical session on 'Google Cloud Platform' introducing the basics of GCP and how to start with it. A non-technical session on 'Why I Can't?' to motivate the person that how to get over from the failures and the stopping reasons."
         },
         {
             "name":"Showcases",
             "des":"Demo zone with the latest of Google tech: Actions by Women in tech all in one place",
-            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+            "longDes":"Showcase of the projects and actions developed by the developers who participated in the events organized by GDG Jalandhar."
         },
         {
             "name":"Networking",
-            "des":"Work hard and enjoy IWD19 is the best place to meet new people",
-            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+            "des":"Work hard and enjoy, IWD'19 is the best place to meet new people",
+            "longDes":"Meet and connect with the people having experience in technical field. Connection between one and wide and share your interest and experiences."
         },
         {
             "name":"Workshop",
             "des":"2 workshops to get your hands dirty and create a working prototype right during the conference",
-            "longDes":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, porro. Natus laboriosam enim deleniti totam voluptate! Temporibus quidem nostrum eveniet nisi aliquid, veniam facere rem, modi commodi at, corrupti itaque.s"
+            "longDes":"Get your hands dirty and know more about 'Firebase'. A workshop on 'I'm Remarkable' will help the individual to grow and enhance their personal branding."
         }
     ]
 }
