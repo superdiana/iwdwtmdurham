@@ -3,19 +3,19 @@
         "startTime":"09:00 AM",
         "topic":"Registration",
         "tag":"",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "des":"Register yourself and confirm your participation on the Help-desks"
     },
     {
         "startTime":"10:00 AM",
         "topic":"Welcome Keynote",
         "tag":"",
-        "des":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Magnam, aliquam! Fugiat, voluptate neque maxime, recusandae suscipit perspiciatis "
+        "des":"Brief intro about the organization, event, agenda,etc"
     },
     {
         "startTime":"10:30 AM",
-        "topic":"Women Transition from campus to corporate",
+        "topic":"Transition from campus to corporate",
         "tag":"",
-        "des":"+"
+        "des":"Talk on 'What is the problems a fresh graduate face while moving to a corporate field from the college capmus?'"
     },
     {
         "startTime":"11:00 AM",
@@ -27,43 +27,43 @@
         "startTime":"11:30 AM",
         "topic":"Firebase Web App Deployment",
         "tag":"Web",
-        "des":""
+        "des":"Hands-on session on development and deployment of a Web App using Firebase"
     },
     {
         "startTime":"12:30 PM",
         "topic":"Activities [Success Stories]",
         "tag":"Fun",
-        "des":""
+        "des":"Platform where anyone can share his/her success story with the attendees"
     },
     {
         "startTime":"01:00 PM",
         "topic":"Lunch & Networking",
-        "tag":"Food",
-        "des":""
+        "tag":"",
+        "des":"Increase the energy level again to enjoy the upcoming awesome workshops"
     },
     {
         "startTime":"02:30 PM",
         "topic":"I’m Remarkable",
-        "tag":"Self Branding",
-        "des":""
+        "tag":"Self-Branding",
+        "des":"Self-Promotion is not bragging, it's telling yourself and others that what you have achieved."
     },
     {
         "startTime":"03:30 PM",
         "topic":"Why I can’t?",
-        "tag":"Self Branding",
-        "des":""
+        "tag":"Self-Branding",
+        "des":"Never find an excuse to deny the things. Look for the reason which is letting you down and work upon it."
     },
     {
         "startTime":"04:00 PM",
         "topic":"Fireside Lightning Talks",
         "tag":"",
-        "des":""
+        "des":"A quick Fireside Chat where we can ask any questions from the speakers"
     },
     {
         "startTime":"04:30 PM",
         "topic":"Closing Note",
         "tag":"",
-        "des":""
+        "des":"Bye!! Thanks for coming.."
     }
 
 ]
