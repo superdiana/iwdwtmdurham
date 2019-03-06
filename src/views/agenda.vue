@@ -138,6 +138,12 @@ export default {
             else if(tag == "Mobile"){
                 return "green"
             }
+            else if(tag == "Self-Branding"){
+                return "#4a148c"
+            }
+            else if(tag == "Fun"){
+                return "#9e9d24"
+            }
             else if(tag == "Cloud"){
                 return "orange"
             }
@@ -148,6 +154,12 @@ export default {
             }
             else if(tag == "Mobile"){
                 return "stay_primary_portrait"
+            }
+            else if(tag == "Self-Branding"){
+                return "trending_up"
+            }
+            else if(tag == "Fun"){
+                return "thumbs_up_down"
             }
             else if(tag == "Cloud"){
                 return "cloud"
