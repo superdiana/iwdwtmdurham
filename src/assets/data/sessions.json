@@ -1,72 +1,22 @@
 [
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Mobile"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Mobile"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
+        "title":"Firebase Web App Deployment",
+        "des":"In this session, speaker will talk about the basics of Firebase and how to deploy the web applications on Firebase. Firebase is a mobile and web application development platform, and as of October 2018, the Firebase platform has 18 products, which are used by 1.5 million apps.",
         "track":"Web"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
+        "title":"Google Cloud Platform",
+        "des":"Introduction to GCP and the advatnages to use it. Google Cloud Platform is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube.",
         "track":"Cloud"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna=m dolore eu",
-        "track":"Cloud"
+        "title":"I’m Remarkable",
+        "des":"#IamRemarkable is a Google initiative empowering women and underrepresented groups to celebrate their achievements in the workplace and beyond. Self Branding and Self promotion will be the topics for hands-on to boost up the confidence level in a person.",
+        "track":"Self-Branding"
     },
     {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate=",
-        "track":"Web"
-    },{
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris n=irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Web"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Mobile"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Web"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Cloud"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Web"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Mobile"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adip ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Web"
-    },
-    {
-        "title":"Session Name",
-        "des":"Session Description Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu",
-        "track":"Mobile"
-    }
-    
+        "title":"Why I Can’t?",
+        "des":"There are 101 reasons for Why we can't, but let's get over those 101 reasons and know the strengths of ourself to get rid of failures and procrastination's reasons.",
+        "track":"Self-Branding"
+    }    
 ]
