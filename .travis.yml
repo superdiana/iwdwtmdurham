@@ -12,11 +12,6 @@ before_script:
 script:
   - npm run build
 
-before_deploy:
-  - echo "Deploying!"
-
-deploy:  
+after_success:  
   - firebase deploy --token $FKEY
-  on:
-    branch: master
 
