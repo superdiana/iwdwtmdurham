@@ -5,7 +5,7 @@
             <v-flex xs12 md6 lg6>
                 <span class="pa-2 google-font" style="border-radius:8px;background-color:#F9FBE7;color:#827717;font-size:200%">Registration</span>
                 <p class="google-font mt-2" style="color:#37474F;font-size:150%">IWD'19 Ticket Registration</p>
-                <p class="mt-0 google-font subheading">We will send you the confirmation mail by 25th August, 1st September and 8th September. If you can't make it, be sure to watch the livestream.</p>
+                <p class="mt-0 google-font subheading">We will send you the confirmation mail by 25th March & 29th March. If you can't make it, be sure to watch the livestream.</p>
                 <p class="mt-0 google-font subheading">Sign in and register to reserve seats.</p>
                 <p class="mt-0 google-font subheading">If you have questions or you’re not sure how to proceed, gdgjalandhar@gmail.com.</p>
             </v-flex>
