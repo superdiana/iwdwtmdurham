@@ -35,11 +35,11 @@
                         <i class="fab fa-twitter" style="color:#1da1f2"></i>
                     </v-btn>
 
-                    <v-btn class="mt-0 mx-0" icon :href="item.linkedin" target="_blank">
+                    <v-btn class="mt-0 mx-0" icon v-if="(item.linkedin).length>0" :href="item.linkedin" target="_blank">
                         <i class="fab fa-linkedin-in" style="color:#0077b5"></i>
                     </v-btn>
 
-                    <v-btn class="mt-0 mx-0" icon :href="item.github" target="_blank">
+                    <v-btn class="mt-0 mx-0" icon v-if="(item.github).length>0" :href="item.github" target="_blank">
                         <i class="fab fa-github" style="color:#333"></i>
                     </v-btn>
                 </v-flex>

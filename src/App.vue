@@ -53,7 +53,6 @@
       app
       scroll-off-screen
       fixed
-      height="55px"
     >
       <v-toolbar-side-icon class="hidden-md-and-up" @click.stop="drawer =!drawer"></v-toolbar-side-icon>
       <v-toolbar-title class="ml-0 pl-1 mr-1">   
@@ -99,8 +98,7 @@ export default {
             { title: 'Home', icon: 'dashboard', route:"/home" },
             { title: 'Attending', icon: 'rounded_corner', route:"/attending" },
             { title: 'Agenda', icon: 'toc', route:"/agenda" },
-            { title: 'Speakers', icon: 'group', route:"/speakers" },
-            { title: 'Team', icon: 'person', route:"/team" }
+            { title: 'Speakers', icon: 'group', route:"/speakers" }
         ],
     }),
     methods:{

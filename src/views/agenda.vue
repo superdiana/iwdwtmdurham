@@ -1,6 +1,6 @@
 <template>
     <v-slide-y-reverse-transition>
-    <v-container class="pa-0 mt-5" fluid v-show="show" :style="{'background-image':'url('+require('@/assets/img/svg/a.svg')+')'}" >
+    <v-container class="pa-0 mt-5" fluid v-show="show" >
         <v-layout wrap align-center justify-center row >
 
             <v-flex xs12>
@@ -25,15 +25,18 @@
                 Check back often as we continue to add new sessions.</p>
             </v-flex>
 
-        <!-- grey lighten-5 -->
-            <v-flex xs12 md9 sm10 lg10 class="pa-0 elevation-2">
-                <v-tabs
-                    v-model="active"
-                    color="indigo"
-                    dark
-                    slider-color="yellow">
 
-                    <v-tab ripple style="text-transform: capitalize;" >
+
+
+        <!-- grey lighten-5 -->
+            <v-flex xs12 md12 sm12 lg12 class="pa-0 elevation-0">
+                <v-layout wrap align-center justify-center row  >
+                    <v-flex xs12 md10>
+                <v-tabs
+                    v-model="active" 
+                    color="rgb(249, 249, 249)"
+                    slider-color="indigo">
+                    <v-tab ripple style="text-transform: capitalize;"  >
                         Sessions
                     </v-tab>
 
@@ -43,7 +46,7 @@
                                 <v-layout justify-start row fill-height wrap>
                                     
                                     <v-flex xs12 sm4 md3 lg3 class="pa-2" v-for="(item,i) in sessions" :key="i">
-                                        <v-card class="elevation-0" style="border: 1px solid #f5f6f7;min-height:280px;border-radius:7px">
+                                        <v-card class="elevation-0" style="border: 1px solid rgb(224, 224, 224);min-height:280px;border-radius:5px">
                                             <v-card-title primary-title>
                                             <div>
                                                 <p class="mb-0 google-font" style="font-size:130%;color:#424242">{{item.title}}</p>
@@ -104,6 +107,8 @@
                         </v-card>
                     </v-tab-item>
                 </v-tabs>
+                </v-flex>
+                </v-layout>
             </v-flex>
 
            
@@ -126,6 +131,9 @@ export default {
             active: null,
             sessions:data,
             scheduleData:scheduledata,
+            items: [
+            'Projects', 'Talks', 'Blogs'
+            ],
             model: 'tab-2',
             text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
         }

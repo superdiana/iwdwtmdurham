@@ -8,5 +8,15 @@
         "name":"WomenTechmakers",
         "link":"https://www.womentechmakers.com/",
         "img":"wtm.png"
+    },
+    {
+        "name":"GDG[x]",
+        "link":"https://github.com/gdg-x",
+        "img":"gdg-x.svg"
+    },
+    {
+        "name":"Coding Gurukul",
+        "link":"https://www.facebook.com/CodinGurukul/",
+        "img":"cg.png"
     }
 ]

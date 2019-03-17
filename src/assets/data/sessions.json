@@ -1,13 +1,13 @@
 [
     {
-        "title":"Firebase Web App Deployment",
-        "des":"In this session, speaker will talk about the basics of Firebase and how to deploy the web applications on Firebase. Firebase is a mobile and web application development platform, and as of October 2018, the Firebase platform has 18 products, which are used by 1.5 million apps.",
-        "track":"Web"
-    },
-    {
         "title":"Google Cloud Platform",
         "des":"Introduction to GCP and the advatnages to use it. Google Cloud Platform is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube.",
         "track":"Cloud"
+    },
+    {
+        "title":"Google Developers Community Programs",
+        "des":"We will talk about the program which is dedicated to assisting individual developer of active mobile, web, cloud, and AI developer communities on their journey leading successful and engaged groups via online training, meetup materials, networking opportunities, and more.",
+        "track":"Self-Branding"
     },
     {
         "title":"I’m Remarkable",

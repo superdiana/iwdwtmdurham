@@ -45,12 +45,7 @@ export default new Router({
       path: '/team',
       name: 'team',
       component: () => import('./views/teams.vue')
-    },
-    {
-      path: '/registration',
-      name: 'registration',
-      component: () => import('./views/registration.vue')
-    },
+    }
     // registration
 
   ],
