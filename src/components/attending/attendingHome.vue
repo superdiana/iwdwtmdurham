@@ -1,5 +1,5 @@
 <template>
-    <v-container fluid class="mt-5">
+    <v-container fluid class="mt-5"> 
         <v-layout wrap align-center justify-center row fill-height>
             <!-- <v-flex xs12 sm6 md3 class="mb-3">
                 <v-img
@@ -18,10 +18,10 @@
                 </v-img>
             </v-flex> -->
 
-            <v-flex xs12 sm12 md10 class="text--white">
+            <v-flex xs12 sm12 md10 class="text--white" style="">
                 <span class="pa-2 google-font mt-2" style="border-radius:8px;background-color:#E3F2FD;color:#0D47A1;font-size:150%">Attending</span>
                 
-                <p class="google-font mt-2 mb-0" style="font-size:150%;color:white">Join us at the {{data.eventVenue}}, on {{data.eventDate}}.</p>   
+                <p class="google-font mt-3 mb-0" style="font-size:150%;color:white">Join us at the {{data.eventVenue}}, on {{data.eventDate}}.</p>   
                 
                 <p class="google-font mt-2 " style="font-size:120%;color:white">On {{data.eventDate}} we’ll be taking technical sessions, hands-on demos, workshops, and some fun activities.</p>
 

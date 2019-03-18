@@ -1,8 +1,8 @@
 <template>
     <v-slide-y-reverse-transition>
-    <v-container fluid class="mt-5" v-show="show">
+    <v-container fluid class="mt-5" v-show="show" >
         <v-layout wrap align-center justify-center row fill-height class="pa-3">
-            <v-flex xs12 md8 lg8>
+            <v-flex xs12 md8 lg8 >
                 <span class="pa-2 google-font" style="border-radius:8px;background-color:#F9FBE7;color:#827717;font-size:150%">Speakers</span>
                 <p class="google-font mt-2" style="color:#37474F;font-size:150%">Our lineup of big thinkers and even bigger doers</p>
                 <p class="mt-0 google-font subheading">Get ready to be inspired by speakers who are building a cloud full of opportunity with our partners and customers. Stay tuned as we add more dynamic speakers to our lineup..</p>

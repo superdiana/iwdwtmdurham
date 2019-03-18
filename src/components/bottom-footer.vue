@@ -10,7 +10,7 @@
     >
   
       <v-btn
-        color="indigo"
+        color="#4285f4"
         flat
         value="Home"
         router
@@ -21,7 +21,7 @@
       </v-btn>
 
       <v-btn
-        color="indigo"
+        color="#4285f4"
         flat
         value="Attending"
         router
@@ -32,7 +32,7 @@
       </v-btn>
 
       <v-btn
-        color="indigo"
+        color="#4285f4"
         flat
         value="Agenda"
         router
@@ -43,7 +43,7 @@
       </v-btn>
 
       <v-btn
-        color="indigo"
+        color="#4285f4"
         flat
         value="Speakers"
         router

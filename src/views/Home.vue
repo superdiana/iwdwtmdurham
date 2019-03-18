@@ -2,10 +2,18 @@
   <v-slide-y-reverse-transition>
     <v-content class="pa-0" v-show="show">
 
-      <v-container fluid class="pa-0 mt-5" style="background-image: linear-gradient(white, #fafafa);">
+      <v-container fluid class="pa-0 mt-5 hidden-sm-and-down" :style="{'background-image':'url('+require('@/assets/img/bgi1.png')+')'}" style="background-position:left;background-size:500px">
         <v-layout wrap align-center justify-center row fill-height class="">
           <v-flex xs12 md10 >
             <startscreen/>
+          </v-flex>
+        </v-layout>
+      </v-container>
+
+      <v-container fluid class="pa-0 mt-5 hidden-sm-and-up"  :style="{'background-image':'url('+require('@/assets/img/mobilebg2.png')+')'}" style="background-size:100%;border-bottom-right-radius:200px">
+        <v-layout wrap align-center justify-center row fill-height class="">
+          <v-flex xs12 md10 >
+            <startscreenMobile/>
           </v-flex>
         </v-layout>
       </v-container>
@@ -39,15 +47,17 @@
   import homespeaker from '../components/home/home-speakers'
   import featureListing from '../components/home/features-content'
   import partners from '../components/partners'
+  import startscreenMobile from '../components/home/startscreenMobile'
 
 
   export default {
     components: {
-      startscreen,
+      startscreen,  
       stats,
       homespeaker,
       partners,
-      featureListing
+      featureListing,
+      startscreenMobile
     },
     data(){
       return{
