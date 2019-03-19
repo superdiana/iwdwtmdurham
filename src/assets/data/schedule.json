@@ -6,21 +6,21 @@
         "des":"Register yourself and confirm your participation on the Help-desks."
     },
     {
-        "startTime":"10:00 AM",
+        "startTime":"09:30 AM",
         "topic":"Welcome Keynote",
         "tag":"",
         "des":"Brief intro about the organization, event, agenda, etc."
     },
     {
-        "startTime":"10:30 AM",
+        "startTime":"10:00 AM",
         "topic":"Google Developers Community Program",
         "tag":"",
         "des":"Intro to various programs offered and initiated by Google Developers to help the community out there."
     },
     {
-        "startTime":"11:00 AM",
-        "topic":"Firebase Web App Deployment",
-        "tag":"Web",
+        "startTime":"10:30 AM",
+        "topic":"Google Cloud Platform",
+        "tag":"Cloud",
         "des":"Hands-on session on development and deployment of a Web App using Firebase."
     },
     {
@@ -31,9 +31,9 @@
     },
     {
         "startTime":"12:00 PM",
-        "topic":"Google Cloud Platform",
-        "tag":"Cloud",
-        "des":"Let's enjoy a bit before we start writing some code."
+        "topic":"Tech talk",
+        "tag":"",
+        "des":"Technical talk"
     },
     {
         "startTime":"12:30 PM",
