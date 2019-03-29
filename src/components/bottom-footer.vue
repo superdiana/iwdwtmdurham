@@ -4,13 +4,14 @@
       :active.sync="bottomNav"
       :value="true"
       app
+      shift
       color="white"
       class="elevation-2"
       
     >
   
       <v-btn
-        color="#4285f4"
+        color="#263238"
         flat
         value="Home"
         router
@@ -21,7 +22,7 @@
       </v-btn>
 
       <v-btn
-        color="#4285f4"
+        color="#263238"
         flat
         value="Attending"
         router
@@ -32,7 +33,7 @@
       </v-btn>
 
       <v-btn
-        color="#4285f4"
+        color="#263238"
         flat
         value="Agenda"
         router
@@ -43,7 +44,7 @@
       </v-btn>
 
       <v-btn
-        color="#4285f4"
+        color="#263238"
         flat
         value="Speakers"
         router
