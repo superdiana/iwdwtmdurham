@@ -10,7 +10,7 @@
         </v-layout>
       </v-container>
 
-      <v-container fluid class="pa-0 mt-5 hidden-sm-and-up"  :style="{'background-image':'url('+require('@/assets/img/mobilebg2.png')+')'}" style="background-size:100%;border-bottom-right-radius:200px">
+      <v-container fluid class="pa-0 mt-5 hidden-sm-and-up"  >
         <v-layout wrap align-center justify-center row fill-height class="">
           <v-flex xs12 md10 >
             <startscreenMobile/>
