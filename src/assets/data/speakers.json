@@ -62,6 +62,16 @@
         "linkedin":"https://www.linkedin.com/in/kamal-vaid/",
         "github":"",
         "profileImage":"kamal.jpg"
+    },
+    {
+        "name":"Simran",
+        "company": "DSC Lead",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"https://gdgjalandhar.com/img/simran.06aed517.jpg"
     }
+    
+    
     
 ]
