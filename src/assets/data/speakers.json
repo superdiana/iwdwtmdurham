@@ -69,7 +69,15 @@
         "twitter":"",
         "linkedin":"",
         "github":"",
-        "profileImage":"https://gdgjalandhar.com/img/simran.06aed517.jpg"
+        "profileImage":"simran.jpg"
+    },
+    {
+        "name":"Abhishek",
+        "company": "Infosys Ltd",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"abi.jpg"
     }
     
     
