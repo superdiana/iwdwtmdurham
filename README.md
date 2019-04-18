@@ -2,6 +2,7 @@
 # IWD Web App
 [![Build Status](https://travis-ci.org/Vrijraj/iwd-web-app.svg?branch=master)](https://travis-ci.org/Vrijraj/iwd-web-app)
 
+<img src="https://raw.githubusercontent.com/GDG-Jalandhar/WebsiteData/master/promotion%20images/iwd19-jalandhar.png" width="100%">
 
 Standard Web App for IWD Events: GDG Communties. <br>
 [Demo](https://iwd-web-app.firebaseapp.com/) <br>
