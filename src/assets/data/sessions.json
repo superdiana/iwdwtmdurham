@@ -1,22 +1,22 @@
 [
-    {
-        "title":"Google Cloud Platform",
-        "des":"Introduction to GCP and the advatnages to use it. Google Cloud Platform is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search and YouTube.",
-        "track":"Cloud"
-    },
-    {
-        "title":"Google Developers Community Programs",
-        "des":"We will talk about the program which is dedicated to assisting individual developer of active mobile, web, cloud, and AI developer communities on their journey leading successful and engaged groups via online training, meetup materials, networking opportunities, and more.",
-        "track":"Self-Branding"
-    },
-    {
-        "title":"Workshop on Self-Branding",
-        "des":"The 90 minute workshop will highlight to participants the importance of self promotion in their careers and provide them with the tools to start developing this skill.",
-        "track":"Self-Branding"
-    },
-    {
-        "title":"Why I Can’t?",
-        "des":"There are 101 reasons for Why we can't, but let's get over those 101 reasons and know the strengths of ourself to get rid of failures and procrastination's reasons.",
-        "track":"Self-Branding"
-    }    
+  {
+    "title": "Marian Villa: TBA",
+    "des": "An amazing session TBA!.",
+    "track": ""
+  },
+  {
+    "title": "Stacy Devino: Get Happy, Get Known, Get Paid",
+    "des": "Build yourself, build your brand, and capitalize on your success to get the quality of life that you deserve. Success is relative, but there are things that the top developers, innovators, managers and leaders do that make them successful. It's not what you think it is, like 'Oh, they just work really hard all the time.' or 'Oh, they are just so much smarter.' or 'Oh, they are just charismatic' or 'Oh, they are just really good negotiators'. It isn't even all about the title(s).In this talk, we are going to go through self analysis and prep, then how to establish your personal brand based off of that analysis and finally how best to capitalize on that personal brand with the help of appropriate professionals and information",
+    "track": "Soft-Skills"
+  },
+  {
+    "title": "Karo Ladino: TBA",
+    "des": "An Amazing Session TBA!",
+    "track": ""
+  },
+  {
+    "title": "Chloe Condon: TBA",
+    "des": "An Amazing Session TBA!",
+    "track": "Tech-Talk"
+  }
 ]

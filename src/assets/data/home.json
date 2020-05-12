@@ -1,65 +1,50 @@
 {
-    "eventName":"International Women's Day 2019",
-    "themeTitle":"Lift as you Climb",
-    "navTitle":"IWD'19 Jalandhar",
-    "registrationLink":"https://gdgjalandhar.page.link/iwd19",
-    "chapterName":"GDG Jalandhar",
-    "eventLogo":"https://www.womentechmakers.com/static/images/wtm-icon@2x.png",
-    "eventDes":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "aboutWTMProgram":"Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. In 2019, we’re organizing the fourth edition in Montreal as part of the special event The Women Techmakers Global Event Series Celebrating International Women’s Day (WTM IWD).",
-    "chapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
-    "eventMeetupLink" : "https://www.meetup.com/GDG-Jalandhar/events/259353071/",
-    "eventDate" : "31st March, 2019",
-    "eventTime" : "09:00 AM to 5:30 PM",
-    "eventVenue" : "Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
-    "email":"gdgjalandhar@gmail.com",
-    "followLinks":{
-        "facebook":"https://www.facebook.com/GDGJalandhar/",
-        "twitter":"https://twitter.com/gdgjalandhar"
+  "eventName": "International Women's Day 2020",
+  "themeTitle": "Together We Rise",
+  "navTitle": "IWD'20 Durham",
+  "registrationLink": "https://www.meetup.com/GDG-Durham/events/270537140/",
+  "chapterName": "GDG Durham",
+  "eventLogo": "https://www.womentechmakers.com/static/images/wtm-icon@2x.png",
+  "eventDes": "International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
+  "aboutWTMProgram": "Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology. In 2019, we’re organizing the fourth edition in Montreal as part of the special event The Women Techmakers Global Event Series Celebrating International Women’s Day (WTM IWD).",
+  "chapterMeetupLink": "https://www.meetup.com/GDG-Durham",
+  "eventMeetupLink": "https://www.meetup.com/GDG-Durham/events/270537140/",
+  "eventDate": "May 22nd, 2020",
+  "eventTime": "07:00 PM to 9:00 PM",
+  "eventVenue": "Online, live on Youtube!!",
+  "email": "hello@gdgdurham.org",
+  "followLinks": {
+    "facebook": "#",
+    "twitter": "https://twitter.com/gdgdurham"
+  },
+  "hashTag": [
+    {
+      "name": "#GDGDurham"
     },
-    "hashTag" : [
-        {
-            "name" : "#GDGJalandhar"
-        },
-        {
-            "name" : "#WTMJalandhar"
-        },
-        {
-            "name" : "#GDG"
-        },
-        {
-            "name" : "#WTM"
-        },
-        {
-            "name" : "#WTM19"
-        },
-        {
-            "name" : "#IWD19"
-        },
-        {
-            "name" : "#IWDJalandhar"
-        }
-    ],
-    "stats":[
-        {
-            "name":"Sessions",
-            "des":"Sessions to introduce some tech and non-tech talks on topics like Google Cloud Platform and Why I Can't?",
-            "longDes":"Technical session on 'Google Cloud Platform' introducing the basics of GCP and how to start with it. A non-technical session on 'Why I Can't?' to motivate the person that how to get over from the failures and the stopping reasons."
-        },
-        {
-            "name":"Showcases",
-            "des":"Demo zone with the latest of Google tech: Actions by Women in tech all in one place",
-            "longDes":"Showcase of the projects and actions developed by the developers who participated in the events organized by GDG Jalandhar."
-        },
-        {
-            "name":"Networking",
-            "des":"Work hard and enjoy, IWD'19 is the best place to meet new people",
-            "longDes":"Meet and connect with the people having experience in technical field. Connection between one and wide and share your interest and experiences."
-        },
-        {
-            "name":"Workshop",
-            "des":"2 workshops to get your hands dirty and create a working prototype right during the conference",
-            "longDes":"Get your hands dirty and know more about 'Firebase'. A workshop on 'I'm Remarkable' will help the individual to grow and enhance their personal branding."
-        }
-    ]
+    {
+      "name": "#WTMDurham"
+    },
+    {
+      "name": "#GDG"
+    },
+    {
+      "name": "#WTM"
+    },
+    {
+      "name": "#WTM20"
+    },
+    {
+      "name": "#IWD20"
+    },
+    {
+      "name": "#IWDDurham"
+    }
+  ],
+  "stats": [
+    {
+      "name": "Sessions",
+      "des": "Sessions to introduce some tech and non-tech talks!",
+      "longDes": "Amazing speakers from all walks of life offering different perspectives around tech and encouraging us during these unprecedent times. We know how hard the pandemic has impacted us worldwide and what a better way to start our first event than with IWD and our amazing speakers!!."
+    }
+  ]
 }

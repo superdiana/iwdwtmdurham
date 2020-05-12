@@ -1,91 +1,10 @@
 [
-    {
-        "name":"Vrijraj Singh",
-        "designation":"Organizer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"vrij.png"
-    },
-    {
-        "name":"Suraj Kumar",
-        "designation":"Organizer",
-        "twitter":"https://twitter.com/surajsugga",
-        "linkedin":"https://www.linkedin.com/in/surajsuggasingh/",
-        "github":"",
-        "profileImage":"suraj.jpg"
-    },
-    {
-        "name":"Varsha Jaiswal",
-        "designation":"Co-Organizer",
-        "twitter":"https://twitter.com/varsha2716",
-        "linkedin":"https://www.linkedin.com/in/varsha2716/",
-        "github":"https://github.com/Varsha-Jaiswal",
-        "profileImage":"varsha.jpg"
-    },
-    {
-        "name":"Sonakshi Shukla",
-        "designation":"WTM Lead",
-        "twitter":"https://twitter.com/Sonakshishukla1",
-        "linkedin":"https://www.linkedin.com/in/sonakshi15/",
-        "github":"",
-        "profileImage":"sonakshi.jpg"
-    },
-    {
-        "name":"Ishita Agnihotri",
-        "designation":"WTM Lead",
-        "twitter":"https://twitter.com/ishitaagnihotr1",
-        "linkedin":"https://www.linkedin.com/in/ishita-agnihotri/",
-        "github":"https://github.com/ishitaagnihotri12",
-        "profileImage":"ishita.jpg"
-    },
-    {
-        "name":"Kishan Patel",
-        "designation":"GDG Jalandhar",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":""
-    },
-    {
-        "name":"Dharmik Popat",
-        "designation":"GDG Jalandhar",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":""
-    },
-    {
-        "name":"Rohan Singh",
-        "designation":"GDG Jalandhar",
-        "twitter":"https://twitter.com/rohankalhans",
-        "linkedin":"https://linkedin.com/in/rohanovation",
-        "github":"https://www.github.com/r4rohan",
-        "profileImage":""
-    },
-    {
-        "name":"Shubhangi Gupta",
-        "designation":"GDG Jalandhar",
-        "twitter":"https://twitter.com/Shubhangigr8",
-        "linkedin":"https://www.linkedin.com/in/shubhangigr8/",
-        "github":"http://github.com/shubhangigr8",
-        "profileImage":""
-    },
-    {
-        "name":"Ashan Khan",
-        "designation":"GDG Jalandhar",
-        "twitter":"https://twitter.com/coder3101",
-        "linkedin":"https://linkedin.com/in/coder3101",
-        "github":"https://github.com/coder3101",
-        "profileImage":""
-    },
-    {
-        "name":"Simran Gujrati",
-        "designation":"GDG Jalandhar",
-        "twitter":"https://twitter.com/simrangujrati12",
-        "linkedin":"https://www.linkedin.com/in/simran-gujrati",
-        "github":"https://github.com/Ziva1811",
-        "profileImage":""
-    }
-   
+  {
+    "name": "Diana Rodriguez",
+    "designation": "Organizer",
+    "twitter": "https://twitter.com/cotufa82",
+    "linkedin": "https://www.linkedin.com/in/nerdattack82",
+    "github": "https://github.com/superdiana",
+    "profileImage": "avatar-di.png"
+  }
 ]
